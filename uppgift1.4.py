@@ -1,0 +1,6 @@
+namn = input('vad heter du?')
+print ('Hej',namn)
+Efternamn =input ('Och ditt efternamn?')
+print ('Hej',namn,Efternamn)
+Ålder =input ('Hur gammal är du?')
+print ('Hej',namn,Efternamn,Ålder)
